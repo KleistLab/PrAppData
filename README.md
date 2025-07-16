@@ -27,6 +27,7 @@ This workflow was tested on macOS Sequoia Version 15.5
 | statsmodels | 0.14.5  |   
 | joblib | 1.5.1 |   
 | kneefinder |0.0.2 |   
+| scikit-learn |1.7.2 |   
 
 
 
