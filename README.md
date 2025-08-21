@@ -13,7 +13,7 @@ This repository contains code to conduct the statistical analysis of factors ass
 ## System requirements 
 
 ### Operating systems
-This workflow was tested on macOS Sequoia Version 15.5
+This workflow was tested on macOS Sequoia Version 15.5 and Windows 10 Version 22H2
 
 ### Dependencies
 
@@ -81,4 +81,4 @@ are given
 The HIV-specialists density categories "0" and "1-2" were summarized in these data sets for further anonymization.
 
 ## Figures 
-The code and data to reproduce the manuscript figures is given in [figs](figs\). 
+The code and data to reproduce the manuscript figures is given in [figs](figs). 
