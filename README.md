@@ -8,6 +8,7 @@ This repository contains code to conduct the statistical analysis of factors ass
   - [Input files](#input_files)
 - [Output](#output)
 - [Demo](#demo)
+- [Figures](#figures)
 
 ## System requirements 
 
@@ -72,3 +73,12 @@ The following files are created in the folder results, with the following struct
 ```
 
 ## Demo
+As example data sets 
+- no_PrEP_filtered.csv 
+- PrEP_filtered.csv 
+are given 
+
+The HIV-specialists density categories "0" and "1-2" were summarized in these data sets for further anonymization.
+
+## Figures 
+The code and data to reproduce the manuscript figures is given in [figs](figs\). 
