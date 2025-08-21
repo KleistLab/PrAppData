@@ -3,7 +3,6 @@ This repository contains code to conduct the statistical analysis of factors ass
 
 - [System requirements](#system-requirements)
   - [Operating systems](#operating-systems)
-  - [Prerequisites](#prerequisites)
   - [Dependencies](#dependencies)
 - [Execution ](#execution)
   - [Input files](#input_files)
@@ -14,8 +13,6 @@ This repository contains code to conduct the statistical analysis of factors ass
 
 ### Operating systems
 This workflow was tested on macOS Sequoia Version 15.5
-
-### Prerequisites
 
 ### Dependencies
 
