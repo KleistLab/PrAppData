@@ -13,7 +13,7 @@ This repository contains code to conduct the statistical analysis of factors ass
 ## System requirements 
 
 ### Operating systems
-This workflow was tested on macOS Sequoia Version 15.5
+This workflow was tested on macOS Sequoia Version 15.5 and Windows 10 Version 22H2
 
 ### Dependencies
 
@@ -73,12 +73,12 @@ The following files are created in the folder results, with the following struct
 ```
 
 ## Demo
-As example data sets 
+As example datasets 
 - no_PrEP_filtered.csv 
 - PrEP_filtered.csv 
-are given 
+will be provided upon publication.
 
 The HIV-specialists density categories "0" and "1-2" were summarized in these data sets for further anonymization.
 
 ## Figures 
-The code and data to reproduce the manuscript figures is given in [figs](figs\). 
+The code and data to reproduce the manuscript figures is given in [figs](figs). 
