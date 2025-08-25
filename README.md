@@ -34,6 +34,7 @@ This workflow was tested on macOS Sequoia Version 15.5 and Windows 10 Version 22
 
 ## Execution 
 The statistical analysis can be found in the [jupyter notebook](PrApp_analysis.ipynb). 
+Please create a folder for the input data (data/) and one in which the results should be stored (results/), including a subfolder for the parameter tuning models (results/parameter_tuning_models).
 
 ### Input files
 As input the statistical analysis requires the files with the preprocessed PrEP and non-PrEP users 
